@@ -1,0 +1,7 @@
+C:\Users\THIS PC\Desktop\asm\asm\bin\Debug\asm.exe.config
+C:\Users\THIS PC\Desktop\asm\asm\bin\Debug\asm.exe
+C:\Users\THIS PC\Desktop\asm\asm\bin\Debug\asm.pdb
+C:\Users\THIS PC\Desktop\asm\asm\obj\Debug\asm.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Desktop\asm\asm\obj\Debug\asm.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Desktop\asm\asm\obj\Debug\asm.exe
+C:\Users\THIS PC\Desktop\asm\asm\obj\Debug\asm.pdb
